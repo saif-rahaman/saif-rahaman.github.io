@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saif-rahaman"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/saif-rahaman-7b895379/"
 
 # Site Footer
 footer:
