@@ -1,5 +1,5 @@
 ---
-permalink: _pages/about.md
+permalink: /about/
 title: "About"
 excerpt: "About"
 layouts_gallery:
