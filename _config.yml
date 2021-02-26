@@ -119,10 +119,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/saif-rahaman-7b895379/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en&oi=ao"
     - label: "Researchgate"
-      icon: "fab fa-fw fa-ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Saif-Kazi-2"
 
 # Site Footer
