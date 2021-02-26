@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: ""
-# layouts_gallery:
+layouts_gallery:
 # - url: /assets/images/mm-layout-splash.png
 #    image_path: /assets/images/mm-layout-splash.png
 #    alt: "splash layout example"
@@ -13,7 +13,7 @@ excerpt: ""
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
 # last_modified_at: 2021-02-05T20:54:41-05:00
-toc: true
+# toc: true
 ---
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
