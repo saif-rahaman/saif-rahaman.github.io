@@ -121,6 +121,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en&oi=ao"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-ResearchGate"
+      url: "https://www.researchgate.net/profile/Saif-Kazi-2"
 
 # Site Footer
 footer:
