@@ -1,4 +1,3 @@
 ---
-title - "Contace"
-
+title - "Contact"
 ---
