@@ -25,7 +25,7 @@ Research experience
 * Wallace Givens Research Associate (Summer 2020)
   * Mathematics and Computer Science Division, Argonne National Laboratory
   * Project: Decomposition strategy for multi-period AC Optimal Power Flow models
-  * Supervisor: <a href = "https://www.linkedin.com/in/youngdae-kim-90590a81/"> Dr. Youngdae Kim</a>
+  * Supervisor: <a href = "https://www.linkedin.com/in/youngdae-kim-90590a81/"> Youngdae Kim</a>
   
 * Undergraduate Research Intern (Summer 2015)
   * Energy, Environment and Chemical Engineering, Washington University in St. Louis
