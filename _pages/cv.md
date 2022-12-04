@@ -20,7 +20,7 @@ Research experience
 * PostDoctoral Research Associate (Fall 2021 - Present)
   * Center for Nonlinear Studies and Applied Math & Plasma Physics Group, Los Alamos National Laboratory
   * Project: Modeling and optimization algorithms for hydrogen-natural gas mixture in pipeline grid network
-  * Supervisor: <a href = "https://azlotnik.github.io/"> Anatoly Zlotnik  and  <a href = "https://kaarthiksundar.github.io/"> Kaarthik Sundar
+  * Supervisor: <a href = "https://azlotnik.github.io/"> Anatoly Zlotnik  and <a href = "https://kaarthiksundar.github.io/"> Kaarthik Sundar
   
 * Undergraduate Research Intern (Summer 2015)
   * Washington University in St. Louis
