@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Undergraduate Research Intern
+  * Washington University in St. Louis
+  * Project: Simulation and Experinmental Design of a co-current non-premixed ethylene flame under negative gravity
+  * Supervisor: <a href = "https://engineering.wustl.edu/faculty/Rajan-Chakrabarty.html"> Prof. Rajan Chakrabarty
 
 * Fall 2015: Research Assistant
   * Github University
