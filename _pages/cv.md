@@ -19,9 +19,8 @@ Research experience
 ======
 * PostDoctoral Research Associate (Fall 2021 - Present)
   * Center for Nonlinear Studies and Applied Math & Plasma Physics Group, Los Alamos National Laboratory
-  * Project(s): 
-        * Modeling and optimization algorithms for hydrogen-natural gas mixture in pipeline grid network
-        * Algorithmic development for global convergence of complementarity optimization problems
+  * Project(s): Modeling and optimization algorithms for hydrogen-natural gas mixture in pipeline grid network, 
+                Algorithmic development for global convergence of complementarity optimization problems
   * Supervisor: <a href = "https://azlotnik.github.io/"> Anatoly Zlotnik</a> and <a href = "https://kaarthiksundar.github.io/"> Kaarthik Sundar</a>
   
 * Wallace Givens Research Associate (Summer 2020)
