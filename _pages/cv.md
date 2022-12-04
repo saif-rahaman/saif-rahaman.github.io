@@ -15,17 +15,17 @@ Education
 * Ph.D in Chemical Engineering, Carnegie Mellon University, 2021
   * Thesis : <a href = "https://kilthub.cmu.edu/articles/thesis/Mathematical_Modeling_and_Optimization_of_Heat_Exchanger_Design_in_Process_Flowsheets/19249550/1" target="_blank" style="text-decoration:none"> Mathematical Modeling and Optimization of Heat Exchanger Design in Process Flowsheets    
 
-Work experience
+Research experience
 ======
-* Summer 2015: Undergraduate Research Intern
+* PostDoctoral Research Associate (Fall 2021 - Present)
+  * Center for Nonlinear Studies and Applied Math & Plasma Physics Group, Los Alamos National Laboratory
+  * Project: Modeling and optimization algorithms for hydrogen-natural gas mixture in pipeline grid network
+  * Supervisor: <a href = "https://azlotnik.github.io/"> Anatoly Zlotnik and <a href = "https://kaarthiksundar.github.io/"> Kaarthik Sundar
+  
+* Undergraduate Research Intern (Summer 2015)
   * Washington University in St. Louis
   * Project: Simulation and Experinmental Design of a co-current non-premixed ethylene flame under negative gravity
   * Supervisor: <a href = "https://engineering.wustl.edu/faculty/Rajan-Chakrabarty.html"> Prof. Rajan Chakrabarty
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
