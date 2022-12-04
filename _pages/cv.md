@@ -28,6 +28,12 @@ Research experience
   * Project: Decomposition strategy for multi-period AC Optimal Power Flow models
   * Supervisor: <a href = "https://www.linkedin.com/in/youngdae-kim-90590a81/"> Youngdae Kim</a>
   
+* Graduate Research Intern  (Summer 2018)
+  * Systems Model based Development, United Technologies Corp. Carrier
+  * Project: Finite Element application to solve the PDE Heat equation along with modeling of non-smooth phase change using
+    complementarity constraints
+  * Supervisor: <a href = "https://www.linkedin.com/in/rui-huang-242a4419/"> Rui Huang</a>
+  
 * Undergraduate Research Intern (Summer 2015)
   * Energy, Environment and Chemical Engineering, Washington University in St. Louis
   * Project: Simulation and Experinmental Design of a co-current non-premixed ethylene flame under negative gravity
