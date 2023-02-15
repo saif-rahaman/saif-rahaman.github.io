@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en">my Google Scholar profile</a>.</u>
-{% endif %}
+**Working**
+
+  1. S. R. Kazi, M. Thombre and L.T. Biegler "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints            (MPCC)"
+
+**Submitted**
+
+**Journal Publications**
+
+**Conference Publications**
