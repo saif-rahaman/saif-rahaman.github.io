@@ -16,6 +16,13 @@ Prior to that, I completed my Bachelors (with Honors) in Chemical Engineering (m
 
 In my free time, I watch sports (Soccer, F1 and NFL) and listen to music (mostly Hard Rock). I also like playing soccer and hiking with friends.
 
-<!--<img src="Profile_picture.jpg" alt="Trulli" width="500" height="333">-->
+ <div class="row">
+  <div class="column">
+    <img src="Grand Canyon.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Yosemite.jpg" alt="Forest" style="width:100%">
+  </div>
+</div> 
 
 Please feel free to contact me via Email or Linkedin.
