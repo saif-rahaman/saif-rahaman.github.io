@@ -18,9 +18,6 @@ In my free time, I watch sports (Soccer, F1 and NFL) and listen to music (mostly
 
  <div class="row">
   <div class="column">
-    <img src="Grand Canyon.jpg" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
     <img src="Yosemite.jpg" alt="Forest" style="width:50%">
   </div>
 </div> 
