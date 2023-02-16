@@ -59,3 +59,5 @@ author_profile: true
 <li>S. R. Kazi, L. T. Biegler and R. Gandhi. "Equation Oriented Optimization of Multi Stream Heat Exchanger Design and Operation in Natural Gas Liquefaction Process", <i>Proceedings of the 14th International Symposium on Process Systems Engineering (PSE21+), Computer Aided Chemical Engineering</i>, 2022, pp. 673-678 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780323851596501123" target="_blank">[URL]</a></li>
 
 </ol>
+
+Full List in the <a href="https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en" target="_blank">Google Scholar Page</a>
