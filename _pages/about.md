@@ -18,10 +18,10 @@ In my free time, I watch sports (Soccer, F1 and NFL) and listen to music (mostly
 
  <div class="row">
   <div class="column">
-    <img src="Grand Canyon.jpg" alt="Snow" style="width:50%;height:100%">
+    <img src="Grand Canyon.jpg" alt="Snow" style="width:100;height:50">
   </div>
   <div class="column">
-    <img src="Yosemite.JPG" alt="Forest" style="width:50%:height:50%">
+    <img src="Yosemite.JPG" alt="Forest" style="width:50:height:50">
   </div>
 </div> 
 
