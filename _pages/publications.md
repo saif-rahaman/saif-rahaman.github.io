@@ -27,6 +27,8 @@ author_profile: true
 <li>S. R. Kazi, M. Short and L. T. Biegler. "A trust region framework for heat exchanger network synthesis with detailed individual heat exchanger designs", <i>Computers & Chemical Engineering</i>, 2021, e107447 <a href = "https://www.sciencedirect.com/science/article/pii/S0098135421002258" target="_blank">[URL]</a> </li>
 <li>S. R. Kazi, M. Short and L. T. Biegler. "Heat exchanger network synthesis with detailed exchanger designs — Part 2. Hybrid optimization strategy for synthesis of heat exchanger networks", <i>AIChE Journal</i>, 2020, e17057 <a href = "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17057" target="_blank">[URL]</a></li>
 <li>S. R. Kazi, M. Short and L. T. Biegler. "Heat exchanger network synthesis with detailed exchanger designs — Part 1. A discretized differential algebraic equation model for shell and tube heat exchanger design", <i>AIChE Journal</i>, 2020, e17056 <a href = "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17056" target="_blank">[URL]</a></li>
+<li>K. Liu, S. R. Kazi, L. T. Biegler, B. Zhang and Q. Chen. "Dynamic optimization for gas blending in pipeline networks with gas interchangeability control", <i>AIChE Journal</i>, 2020, e16908 <a href = "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.16908" target="_blank">[URL]</a></li>
+<li>A. Patel, S. L. Shield, S. R. Kazi, A. M. Johnson and L. T. Biegler. "Contact-implicit trajectory optimization using orthogonal collocation", <i>IEEE Robotics and Automation Letters</i>, 2019, pp. 2242-2249 <a href = "https://ieeexplore.ieee.org/abstract/document/8648229/" target="_blank">[URL]</a></li>
 </ol>
 
 **Conference Publications**
