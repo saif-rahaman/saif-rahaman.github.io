@@ -16,13 +16,4 @@ Prior to that, I completed my Bachelors (with Honors) in Chemical Engineering (m
 
 In my free time, I watch sports (Soccer, F1 and NFL) and listen to music (mostly Hard Rock). I also like playing soccer and hiking with friends.
 
- <!--<div class="row">
-  <div class="column">
-    <img src="Grand Canyon.jpg" alt="Snow" style="width:100px;height:50px">
-  </div>
-  <div class="column">
-    <img src="Yosemite.JPG" alt="Forest" style="width:25px:height:50px">
-  </div>
-</div>--> 
-
 Please feel free to contact me via Email or Linkedin.
