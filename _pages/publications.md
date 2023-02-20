@@ -60,4 +60,4 @@ author_profile: true
 
 </ol>
 
-Full List in the <a href="https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en" target="_blank">Google Scholar Page</a>
+For full list of publications, visit my <a href="https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en" target="_blank">Google Scholar </a>page
