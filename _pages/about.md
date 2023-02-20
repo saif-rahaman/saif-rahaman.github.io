@@ -16,4 +16,4 @@ Prior to that, I completed my Bachelors (with Honors) in Chemical Engineering (m
 
 In my free time, I watch sports (Soccer, F1 and NFL) and listen to music (mostly Hard Rock). I also like playing soccer and hiking with friends.
 
-Please feel free to contact me via Email or Linkedin.
+Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" target="_blank" style="text-decoration:none">Email</a> or <a href = "https://www.linkedin.com/in/saif-rahaman-7b895379/" target="_blank" style="text-decoration:none">LinkedIn</a>.
