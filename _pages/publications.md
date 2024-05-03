@@ -11,8 +11,6 @@ author_profile: true
 
  <li>S. R. Kazi, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints        (MPCC)"</li>
 
-<li>L. S. Baker, S. R. Kazi and A. Zlotnik. "Transitions from Monotonicity to Chaos in Gas Mixture Dynamics in Pipeline Networks"</li>
-
 </ol>
   
 **Submitted**
