@@ -18,12 +18,9 @@ author_profile: true
 **Submitted**
 
 <ol>
-  
-<li>S. R. Kazi, K. Sundar, S. Srinivasan and A. Zlotnik. "Modeling and Optimization of Steady Flow of Natural Gas and Hydrogen Mixtures in Pipeline Networks" <a href = "https://arxiv.org/pdf/2212.00961" target="_blank">[Preprint]</a> </li>
 
-<li>M. Sodwatana, S. R. Kazi, K. Sundar and A. Zlotnik. "Optimization of Hydrogen Blending in Natural Gas Networks for Carbon Emissions Reduction" <a href = "https://arxiv.org/pdf/2210.16385" target="_blank">[Preprint]</a></li>
-
-<li>L. S. Baker, S. R. Kazi, R. Platte and A. Zlotnik. "Optimal Control of Transient Flows in Pipeline Networks with Heterogeneous Mixtures of Hydrogen and Natural Gas" <a href = "https://arxiv.org/pdf/2210.06269" target="_blank">[Preprint]</a></li>
+<li>M. Sodwatana, S. R. Kazi, K. Sundar and A. Zlotnik. "Locational Marginal Pricing of Energy in Pipeline Transport of Natural Gas and
+Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16385" target="_blank">[Preprint]</a></li>
 
 </ol>
 
@@ -31,6 +28,10 @@ author_profile: true
 
 
 <ol>
+
+<li>L. S. Baker, S. R. Kazi, and A. Zlotnik. "Transitions from monotonicity to chaos in gas mixture dynamics in pipeline networks" <a href = "https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.033008" target="_blank">[Preprint]</a></li>
+
+<li>S. R. Kazi, K. Sundar, S. Srinivasan and A. Zlotnik. "Modeling and Optimization of Steady Flow of Natural Gas and Hydrogen Mixtures in Pipeline Networks" <i>International Journal of Hydrogen Energy</i>, 2024, I.54, pp.14-24 <a href = "https://www.sciencedirect.com/science/article/pii/S0360319923063541" target="_blank">[Preprint]</a> </li>
   
 <li>S. R. Kazi, M. Short and L. T. Biegler. "A trust region framework for heat exchanger network synthesis with detailed individual heat exchanger designs", <i>Computers & Chemical Engineering</i>, 2021, e107447 <a href = "https://www.sciencedirect.com/science/article/pii/S0098135421002258" target="_blank">[URL]</a> </li>
 
