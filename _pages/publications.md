@@ -27,9 +27,9 @@ Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16
 
 <ol>
 
-<li>L. S. Baker, S. R. Kazi, and A. Zlotnik. "Transitions from monotonicity to chaos in gas mixture dynamics in pipeline networks" <a href = "https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.033008" target="_blank">[Preprint]</a></li>
+<li>L. S. Baker, S. R. Kazi, and A. Zlotnik. "Transitions from monotonicity to chaos in gas mixture dynamics in pipeline networks" <a href = "https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.033008" target="_blank">[URL]</a></li>
 
-<li>S. R. Kazi, K. Sundar, S. Srinivasan and A. Zlotnik. "Modeling and Optimization of Steady Flow of Natural Gas and Hydrogen Mixtures in Pipeline Networks" <i>International Journal of Hydrogen Energy</i>, 2024, I.54, pp.14-24 <a href = "https://www.sciencedirect.com/science/article/pii/S0360319923063541" target="_blank">[Preprint]</a> </li>
+<li>S. R. Kazi, K. Sundar, S. Srinivasan and A. Zlotnik. "Modeling and Optimization of Steady Flow of Natural Gas and Hydrogen Mixtures in Pipeline Networks" <i>International Journal of Hydrogen Energy</i>, 2024, I.54, pp.14-24 <a href = "https://www.sciencedirect.com/science/article/pii/S0360319923063541" target="_blank">[URL]</a> </li>
   
 <li>S. R. Kazi, M. Short and L. T. Biegler. "A trust region framework for heat exchanger network synthesis with detailed individual heat exchanger designs", <i>Computers & Chemical Engineering</i>, 2021, e107447 <a href = "https://www.sciencedirect.com/science/article/pii/S0098135421002258" target="_blank">[URL]</a> </li>
 
