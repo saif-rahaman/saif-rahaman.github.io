@@ -47,6 +47,8 @@ Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16
 
 <ol>
 
+<li> Sodwatana, M., Kazi, S. R., Sundar, K., Brandt, A., & Zlotnik, A. "Optimization of Hydrogen Blending in Natural Gas Networks for Carbon Emissions Reduction". <i>2023 American Control Conference (ACC)</i>, IEEE, 1229-1236 <a href = "https://ieeexplore.ieee.org/abstract/document/10156202/"target="_blank">[URL]</a></li>
+
 <li>  Baker, L., Kazi, S. R., Platte, R., & Zlotnik, A. "Optimal Control of Transient Flows in Pipeline Networks with Heterogeneous Mixtures of Hydrogen and Natural Gas". <i>2023 American Control Conference (ACC)</i>, IEEE, 1221-1228 <a href = "https://ieeexplore.ieee.org/abstract/document/10156571/"target="_blank">[URL]</a></li>
 
 <li> Zlotnik, A., Kazi, S. R., Sundar, K., Gyrya, V., Baker, L., Sodwatana, M., & Brodskyi, Y. "Effects of Hydrogen Blending on Natural Gas Pipeline Transients, Capacity, and Economics". <i>In Pipeline Simulation Interest Group (PSIG) Annual Meeting</i>, 2023 (pp. PSIG-2312) <a href = "https://onepetro.org/PSIGAM/proceedings-abstract/PSIG23/All-PSIG23/520076"target="_blank">[URL]</a></li>
