@@ -47,15 +47,18 @@ Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16
 
 <ol>
 
-<li>S. R. Kazi and L. T. Biegler. "Nonlinear optimization of detailed heat exchanger models with phase change", <i>Proceedings of the 9th International Conference on Foundations of Computer-Aided Process Design (FOCAPD19), Computer Aided Chemical Engineering</i>, 2019, pp. 151-156 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780128185971500242" target="_blank">[URL]</a></li>
-  
+<li> Zlotnik, A., Kazi, S. R., Sundar, K., Gyrya, V., Baker, L., Sodwatana, M., & Brodskyi, Y. (2023, May). "Effects of Hydrogen Blending on Natural Gas Pipeline Transients, Capacity, and Economics". <i>In Pipeline Simulation Interest Group (PSIG) Annual Meeting</i>, 2023 (pp. PSIG-2312) <a href = "https://onepetro.org/PSIGAM/proceedings-abstract/PSIG23/All-PSIG23/520076"target="_blank">[URL]</a></li>
+
+<li>S. R. Kazi, L. T. Biegler and R. Gandhi. "Equation Oriented Optimization of Multi Stream Heat Exchanger Design and Operation in Natural Gas Liquefaction Process", <i>Proceedings of the 14th International Symposium on Process Systems Engineering (PSE21+), Computer Aided Chemical Engineering</i>, 2022, pp. 673-678 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780323851596501123" target="_blank">[URL]</a></li>
+
+<li>Z. Mahmood, I. D. Mel, S. R. Kazi, A. J. Isafiade and M. Short. "An Optimisation Algorithm for Detailed Shell-and-Tube Heat Exchanger Designs for Multi-Period Operation", <i>Proceedings of the 24th Conference on Process Integration for Energy Saving and Pollution Reduction (PRES'21), Chemical Engineering Transactions </i>, 2021, pp. 253-258 <a href = "https://www.cetjournal.it/index.php/cet/article/view/CET2188042" target="_blank">[URL]</a></li>
+
+<li>S. R. Kazi, M. Short and L. T. Biegler. "Synthesis of Combined Heat and Mass Exchange Networks Via a Trust Region Filter Optimisation Algorithm Including Detailed Unit Designs", <i>Proceedings of the 31st European Symposium on Computer Aided Process Engineering (ESCAPE31), Computer Aided Chemical Engineering</i>, 2021, pp. 13-18 <a href = "https://www.sciencedirect.com/science/article/pii/B9780323885065500036" target="_blank">[URL]</a></li>
+
 <li>S. R. Kazi, M. Short and L. T. Biegler. "Heat Exchanger Network Optimization including Detailed Heat Exchanger Models using Trust Region Method", <i>Proceedings of the 30th European Symposium on Computer Aided Process Engineering (ESCAPE30), Computer Aided Chemical Engineering</i>, 2020, pp. 1051-1056 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780128233771501762" target="_blank">[URL]</a></li>
   
-<li>S. R. Kazi, M. Short and L. T. Biegler. "Synthesis of Combined Heat and Mass Exchange Networks Via a Trust Region Filter Optimisation Algorithm Including Detailed Unit Designs", <i>Proceedings of the 31st European Symposium on Computer Aided Process Engineering (ESCAPE31), Computer Aided Chemical Engineering</i>, 2021, pp. 13-18 <a href = "https://www.sciencedirect.com/science/article/pii/B9780323885065500036" target="_blank">[URL]</a></li>
-  
-<li>Z. Mahmood, I. D. Mel, S. R. Kazi, A. J. Isafiade and M. Short. "An Optimisation Algorithm for Detailed Shell-and-Tube Heat Exchanger Designs for Multi-Period Operation", <i>Proceedings of the 24th Conference on Process Integration for Energy Saving and Pollution Reduction (PRES'21), Chemical Engineering Transactions </i>, 2021, pp. 253-258 <a href = "https://www.cetjournal.it/index.php/cet/article/view/CET2188042" target="_blank">[URL]</a></li>
-  
-<li>S. R. Kazi, L. T. Biegler and R. Gandhi. "Equation Oriented Optimization of Multi Stream Heat Exchanger Design and Operation in Natural Gas Liquefaction Process", <i>Proceedings of the 14th International Symposium on Process Systems Engineering (PSE21+), Computer Aided Chemical Engineering</i>, 2022, pp. 673-678 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780323851596501123" target="_blank">[URL]</a></li>
+<li>S. R. Kazi and L. T. Biegler. "Nonlinear optimization of detailed heat exchanger models with phase change", <i>Proceedings of the 9th International Conference on Foundations of Computer-Aided Process Design (FOCAPD19), Computer Aided Chemical Engineering</i>, 2019, pp. 151-156 <a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780128185971500242" target="_blank">[URL]</a></li>
+ 
 
 </ol>
 
