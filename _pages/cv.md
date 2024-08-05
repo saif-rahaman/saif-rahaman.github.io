@@ -51,7 +51,7 @@ Awards
 Service
 ======
 * Invited Peer Reviewer
-  * Industrial & Engineering Chemistry Research (I&EC Research)
+  * Industrial & Engineering Chemistry Research (I&ECR)
   * Computers & Chemical Engineering
   * American Institute of Chemical Engineers (AIChE) Journal
   * IEEE Transactions on Control Systems Technology (TCST)
