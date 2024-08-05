@@ -9,7 +9,7 @@ author_profile: true
 
 <ol>
 
- <li>S. R. Kazi, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints        (MPCC)"</li>
+ <li>S. R. Kazi, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints (MPCC)"</li>
 
 </ol>
   
@@ -46,6 +46,12 @@ Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16
 **Conference Publications**
 
 <ol>
+
+<li>Kazi, S. R., Thombre, M., & Biegler, L. T.  "Globally Convergent Method for Optimal Control of Hybrid Dynamical Systems". <i>2024 Advanced Control of Chemical Processes (ADCHEM)</i>, IFAC PapersOnLine, Vol.59,  <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0378779624006345/" target="_blank">[URL]</a> </li>
+
+<li> Kazi, S. R., Sundar, K., & Zlotnik, A. "Dynamic Optimization and Optimal Control of Hydrogen Blending Operations in Natural Gas Networks". <i>2024 American Control Conference (ACC)</i>, IEEE, 1229-1236 <a href = "https://ieeexplore.ieee.org/abstract/document/10156202" target="_blank">[URL]</a></li>
+ 
+<li> Kazi, S. R., Sundar, K., Misra, S. , Tokareva, S., & Zlotnik, A. "Intertemporal uncertainty management in gas-electric energy systems using stochastic finite volumes". <i>2024 Power Systems Computing Conference (PSCC)</i>, Electric Power Systems Research, 110748 <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0378779624006345/" target="_blank">[URL]</a></li>
 
 <li> Sodwatana, M., Kazi, S. R., Sundar, K., Brandt, A., & Zlotnik, A. "Optimization of Hydrogen Blending in Natural Gas Networks for Carbon Emissions Reduction". <i>2023 American Control Conference (ACC)</i>, IEEE, 1229-1236 <a href = "https://ieeexplore.ieee.org/abstract/document/10156202/" target="_blank">[URL]</a></li>
 
