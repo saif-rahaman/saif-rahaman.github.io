@@ -9,7 +9,7 @@ author_profile: true
 
 <ol>
 
- <li>S. R. Kazi, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints (MPCC)"</li>
+ <li>**S. R. Kazi**, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints (MPCC)"</li>
 
 </ol>
   
