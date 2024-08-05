@@ -27,7 +27,7 @@ Research experience
   * Mathematics and Computer Science Division, Argonne National Laboratory
   * Project: Decomposition strategy for multi-period AC Optimal Power Flow models
   * Supervisor: <a href = "https://www.linkedin.com/in/youngdae-kim-90590a81/" target="_blank" style="text-decoration:none"> Youngdae Kim</a>
-  
+
 * Graduate Research Intern  (Summer 2018)
   * Systems Model based Development, United Technologies Corp. Carrier
   * Project: Finite Element application to solve the PDE Heat equation along with modeling of non-smooth phase change using
@@ -42,7 +42,31 @@ Research experience
 
 Awards 
 ======  
+* CNLS PostDoctoral Fellowship (2021-2023)
+* Finalist in TC Model-Based Optimization for Robotics Best Paper Award (2019)
+* FOCAPD NSF Conference Travel Award (2019)
+* CMU Dean's Fellowship (2016)
+* Undergraduate Student Excellence Award, IIT Bombay (2016)
   
-Service and leadership
+Service
 ======
-
+* Invited Peer Reviewer
+  * Industrial & Engineering Chemistry Research (I&EC Research)
+  * Computers & Chemical Engineering
+  * American Institute of Chemical Engineers (AIChE) Journal
+  * IEEE Transactions on Control Systems Technology (TCST)
+  * IEEE Transactions on Automatic Control (TAC)
+  * Optimization and Engineering
+  * Optimal Control, Application and Methods
+  * Reliability Engineering and System Safety
+  * American Control Conference (ACC)
+  * Conference on Decison and Control (CDC)
+  * Power Systems Computing Conference (PSCC)
+* LANL Student Mentorship
+  * <a href = "https://profiles.stanford.edu/mo-sodwatana" target="_blank" style="text-decoration:none"> Mo Sodwatana </a> (Stanford)
+  * <a href = "https://cnls.lanl.gov/External//people/Luke_Baker.php" target="_blank" style="text-decoration:none"> Luke Baker </a> (Arizona State)
+  * <a href = "https://sites.google.com/view/robert-ferrando/" target="_blank" style="text-decoration:none"> Robert Ferrando </a> (Univ of Arizona)
+  * <a href = "https://appliedmath.arizona.edu/person/ayrton-pablo-almada-jimenez" target="_blank" style="text-decoration:none"> Ayrton Jimenez </a> (Univ of Arizona)
+* IIT Bombay Student Mentorship
+  * 16 Freshmen & 10 Sophomore
+* Center for Nonlinear Studies (CNLS) Postdoctoral Seminar Organizer (2022)
