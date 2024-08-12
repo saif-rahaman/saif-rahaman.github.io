@@ -68,5 +68,5 @@ Service
   * <a href = "https://sites.google.com/view/robert-ferrando/" target="_blank" style="text-decoration:none"> Robert Ferrando </a> (Univ of Arizona)
   * <a href = "https://appliedmath.arizona.edu/person/ayrton-pablo-almada-jimenez" target="_blank" style="text-decoration:none"> Ayrton Jimenez </a> (Univ of Arizona)
 * IIT Bombay Student Mentorship
-  * 16 Freshmen & 10 Sophomores
+  * Freshmen & Sophomores
 * Center for Nonlinear Studies (CNLS) Postdoctoral Seminar Organizer (2022)
