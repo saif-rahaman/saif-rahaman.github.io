@@ -72,4 +72,4 @@ Service
 * Center for Nonlinear Studies (CNLS) Postdoctoral Seminar Organizer (2022)
 
 
-<a href="https://drive.google.com/file/d/1eiP7tfbadZ0tCne3j8iV3vBWxRHkjCRM/view?usp=sharing" download target="_blank">Download full CV</a>
+<a href="https://drive.google.com/file/d/1eiP7tfbadZ0tCne3j8iV3vBWxRHkjCRM/uc?export=download" download target="_blank">Download full CV</a>
