@@ -72,4 +72,4 @@ Service
 * Center for Nonlinear Studies (CNLS) Postdoctoral Seminar Organizer (2022)
 
 
-<a href="https://github.com/saif-rahaman/saif-rahaman.github.io/blob/master/_pages/Resume_CV_Saif_Kazi.pdf" download target="_blank">Download full CV</a>
+<a href="https://drive.google.com/file/d/1eiP7tfbadZ0tCne3j8iV3vBWxRHkjCRM/view?usp=sharing" download target="_blank">Download full CV</a>
