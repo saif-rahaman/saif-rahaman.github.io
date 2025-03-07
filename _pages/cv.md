@@ -20,7 +20,7 @@ Research experience
 * Research Staff Scientist (Spring 2025 - Current)
   * Applied Math & Plasma Physics Group, Los Alamos National Laboratory
 
-* PostDoctoral Research Associate (Fall 2021 - Winter 2025)
+* PostDoctoral Research Associate (Fall 2021 - Winter 2024)
   * Center for Nonlinear Studies and Applied Math & Plasma Physics Group, Los Alamos National Laboratory
   * Project(s): Modeling and optimization algorithms for hydrogen-natural gas mixture in pipeline grid network, 
                 Algorithmic development for global convergence of complementarity optimization problems
