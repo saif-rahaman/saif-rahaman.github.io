@@ -71,4 +71,4 @@ Service
   * Freshmen & Sophomores
 * Center for Nonlinear Studies (CNLS) Postdoctoral Seminar Organizer (2022)
 
-<a href="https://drive.google.com/uc?export=download&id=14IeukYswoBSr7Gl_Jnlsx8wsRnldEqhW" download target="_blank">Download full CV</a>
+<a href="https://drive.google.com/uc?export=download&id=19_d6B-eUAJwMIGh9Mn5hrRiepT1AsqL3" download target="_blank">Download full CV</a>
