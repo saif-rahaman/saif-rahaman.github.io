@@ -16,7 +16,7 @@ feature_row:
       <div style="display: flex; flex-direction: column; gap: 15px;">
         <div style="display: flex; align-items: center;">
           <img src="/images/cmu-logo.png" alt="CMU" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
-          <span><strong>Ph.D. in Chemical Engineering, 2021</strong><br>Carnegie Mellon University</span>
+          <span><strong>Ph.D. in Systems Engineering, 2021</strong><br>Carnegie Mellon University</span>
         </div>
         <div style="display: flex; align-items: center;">
           <img src="/images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
@@ -44,7 +44,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   .feature_row {
     display: grid !important;
     grid-template-columns: 2fr 1fr !important; /* Adjust ratios here */
-    gap: 40px !important; /* Prevents overlap */
+    gap: 20px !important; /* Prevents overlap */
     max-width: 100% !important;
   }
 
