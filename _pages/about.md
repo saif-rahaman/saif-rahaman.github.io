@@ -29,22 +29,22 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 {% include feature_row %}
 
 <style>
-  /* Force the layout to treat the content area as full width */
+  /* Override the grid-based layout container */
   .layout--single .page__inner-wrap {
     max-width: 100% !important;
-    padding-right: 0px !important;
   }
 
-  /* Override the Susy grid settings that create the whitespace */
+  /* Force the content column to full width, ignoring the sidebar reservation */
   @media (min-width: 1024px) {
-    .layout--single .sidebar {
-      width: 200px !important; /* Keep the profile sidebar narrow */
-    }
-    
     .layout--single .main {
-      width: calc(100% - 200px) !important; /* Force content to fill the remaining space */
-      padding-left: 30px !important;
-      padding-right: 0px !important;
+      width: 100% !important;
+      float: none !important;
+      padding-right: 0 !important;
+    }
+
+    /* Force the sidebar to hide itself so the content can take 100% space */
+    .layout--single .sidebar {
+      display: none !important;
     }
   }
 </style>
