@@ -4,6 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 classes: wide
+sidebar: false
 redirect_from: 
   - /about/
   - /about.html
