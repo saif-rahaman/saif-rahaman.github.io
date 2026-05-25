@@ -15,11 +15,11 @@ feature_row:
     excerpt: >
       <div style="display: flex; flex-direction: column; gap: 15px;">
         <div style="display: flex; align-items: center;">
-          <img src="/assets/images/cmu-logo.png" alt="CMU" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
+          <img src="/images/cmu-logo.png" alt="CMU" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
           <span><strong>Carnegie Mellon University</strong><br>PhD in Chemical Engineering</span>
         </div>
         <div style="display: flex; align-items: center;">
-          <img src="/assets/images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
+          <img src="images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
           <span><strong>Indian Institute of Technology, Bombay</strong><br>B.Tech in Chemical Engineering</span>
         </div>
       </div>
