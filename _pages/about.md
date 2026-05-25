@@ -39,3 +39,24 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 
 {% include feature_row %}
 
+<style>
+  /* Override the default feature_row grid */
+  .feature_row {
+    display: grid !important;
+    grid-template-columns: 60% 40% !important; /* 60% for Education, 40% for Research */
+    gap: 20px !important;
+    max-width: 100% !important;
+  }
+
+  /* Force the Education item to not break text */
+  .feature__item-excerpt span {
+    white-space: nowrap !important;
+  }
+
+  /* Ensure the logos and text stay aligned */
+  .feature__item {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+</style>
+
