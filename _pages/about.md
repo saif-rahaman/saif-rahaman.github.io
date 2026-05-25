@@ -17,9 +17,20 @@ feature_row:
 ---  
 
 <style>
-  .page__content {
-    max-width: 100% !important; 
-    padding-right: 0 !important;
+  /* Force the content area to take up more space when the profile sidebar is present */
+  .layout--single .page__inner-wrap {
+    max-width: 100% !important;
+  }
+
+  /* This specifically targets the sidebar and content grid */
+  @media (min-width: 1024px) {
+    .layout--single .sidebar {
+      width: 20% !important; /* Make profile slightly smaller */
+    }
+    .layout--single .main {
+      width: 80% !important; /* Give content more room */
+      padding-left: 20px;
+    }
   }
 </style>
 
