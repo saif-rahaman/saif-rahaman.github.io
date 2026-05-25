@@ -78,4 +78,9 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
+
+  .page__content {
+  padding-bottom: 0 !important;
+  }
+
 </style>
