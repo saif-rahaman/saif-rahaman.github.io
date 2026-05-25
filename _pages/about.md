@@ -40,30 +40,30 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 {% include feature_row %}
 
 <style>
-  /* 1. Fully override the theme's feature_row structure */
+  /* 1. Use Flexbox to ensure they stay side-by-side */
   .feature_row {
-    display: grid !important;
-    grid-template-columns: 1.5fr 1fr !important; /* Adjust ratios here */
-    gap: 20px !important; /* Prevents overlap */
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    gap: 40px !important; /* This is your 'safety gap' */
     max-width: 100% !important;
   }
 
-  /* 2. Reset the individual items so they don't fight the grid */
-  .feature__item {
-    display: block !important;
-    width: 100% !important;
-    padding: 0 !important;
-    margin: 0 !important;
+  /* 2. Assign weights: Education (60%) and Research (40%) */
+  .feature__item:first-child {
+    flex: 0 0 60% !important; 
+    max-width: 60% !important;
+  }
+  
+  .feature__item:nth-child(2) {
+    flex: 0 0 40% !important;
+    max-width: 40% !important;
   }
 
-  /* 3. Force content to stay within its own grid column */
+  /* 3. Prevent text overlap by forcing containment */
   .feature__item-excerpt {
     width: 100% !important;
-  }
-
-  /* 4. Fix for the Education text wrapping */
-  .feature__item-excerpt span {
-    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis; /* Adds '...' if text is truly too long */
   }
 </style>
 
