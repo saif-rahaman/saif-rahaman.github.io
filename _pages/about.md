@@ -20,7 +20,7 @@ feature_row:
         </div>
         <div style="display: flex; align-items: center;">
           <img src="/images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
-          <span><strong>B.Tech in Chemical Engineering</strong><br>Indian Institute of Technology, Bombay</span>
+          <span><strong>B.Tech in Chemical Engineering, 2016</strong><br>Indian Institute of Technology, Bombay</span>
         </div>
       </div>
 ---  
