@@ -12,9 +12,17 @@ redirect_from:
 
 feature_row:
   - title: "Education"
-    excerpt: "<ul><li><strong>Carnegie Mellon University</strong>, PhD in Chemical Engineering</li><li><strong>Indian Institute of Technology, Bombay</strong>, B.Tech in Chemical Engineering</li></ul>"
-  - title: "Research Interests"
-    excerpt: "<ul><li>Optimization & Control</li><li>Power Systems</li><li>Numerical Methods</li></ul>"
+    excerpt: >
+      <ul>
+        <li>
+          <img src="/images/cmu-logo.png" alt="CMU" style="width: 30px; vertical-align: middle;">
+          <strong>Carnegie Mellon University</strong>, PhD in Chemical Engineering
+        </li>
+        <li>
+          <img src="/images/iit-logo.png" alt="IIT" style="width: 30px; vertical-align: middle;">
+          <strong>Indian Institute of Technology, Bombay</strong>, B.Tech in Chemical Engineering
+        </li>
+      </ul>
 ---  
 
 Currently, I am a staff scientist at the <a href = "https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php" target="_blank" style="text-decoration:none"> Applied Math & Plasma Physics </a> group in Los Alamos National Lab (LANL), USA. Previously, I did my post-doctoral research at the <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none"> Center for Nonlinear Studies (CNLS)</a> here at LANL. I am also a part of the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none"> Advanced Network Science Initiative (ANSI) </a> working with <a href = "https://azlotnik.github.io/" target="_blank" style="text-decoration:none"> Anatoly Zlotnik </a> and <a href = "https://kaarthiksundar.github.io/" target="_blank" style="text-decoration:none"> Kaarthik Sundar</a>. I currently work on modeling and optimization of energy network systems including gas pipeline networks with a focus on blending hydrogen and natural gas in existing pipeline infrastructure. I am also interested in algorithms and applications for <b> mathematical programing with equilibrium constraints (MPECs) </b> which are used to solve optimization problems with variational inequalities.
@@ -29,19 +37,3 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 
 {% include feature_row %}
 
-<style>
-  /* 1. Force the main container to span wider */
-  @media (min-width: 1024px) {
-    .layout--single .main {
-      /* Force the main column to take 9 out of 12 columns instead of the default 10/12 */
-      width: 75% !important; 
-      /* Reduce the right padding that creates the whitespace */
-      padding-right: 0px !important; 
-    }
-    
-    .layout--single .sidebar {
-      /* Keep the sidebar but ensure it doesn't push the content too far */
-      width: 25% !important;
-    }
-  }
-</style>
