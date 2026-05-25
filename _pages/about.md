@@ -29,7 +29,7 @@ feature_row:
     }
     .layout--single .main {
       width: 80% !important; /* Give content more room */
-      padding-left: 0px;
+      padding-right: 20px !important;
     }
   }
 </style>
