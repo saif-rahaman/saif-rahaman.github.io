@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 classes: wide
 sidebar: false
 redirect_from: 
@@ -19,7 +19,7 @@ feature_row:
 <style>
   .page__content {
     max-width: 100% !important; 
-    margin: 0 auto;
+    padding-right: 0 !important;
   }
 </style>
 
