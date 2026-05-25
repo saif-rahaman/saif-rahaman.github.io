@@ -17,7 +17,7 @@ feature_row:
 
 <style>
   .page__content {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
   }
 </style>
