@@ -17,19 +17,21 @@ feature_row:
 ---  
 
 <style>
-  /* Force the content area to take up more space when the profile sidebar is present */
-  .layout--single .page__inner-wrap {
+  /* Force container and main column to expand to fill available space */
+  .layout--single .page__inner-wrap,
+  .layout--single .main,
+  .layout--single .page__content {
     max-width: 100% !important;
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+    width: 100% !important;
   }
 
-  /* This specifically targets the sidebar and content grid */
+  /* Specifically target the grid column that restricts the width */
   @media (min-width: 1024px) {
-    .layout--single .sidebar {
-      width: 20% !important; /* Make profile slightly smaller */
-    }
     .layout--single .main {
-      width: 100% !important; /* Give content more room */
-      padding-right: 20px !important;
+      width: 100% !important;
+      padding-right: 10px !important; /* Small buffer so text doesn't touch the screen edge */
     }
   }
 </style>
