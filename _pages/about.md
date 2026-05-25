@@ -35,7 +35,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
       /* Force the main column to take 9 out of 12 columns instead of the default 10/12 */
       width: 75% !important; 
       /* Reduce the right padding that creates the whitespace */
-      padding-right: 20px !important; 
+      padding-right: 0px !important; 
     }
     
     .layout--single .sidebar {
