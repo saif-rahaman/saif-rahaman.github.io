@@ -67,3 +67,15 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   }
 </style>
 
+<style>
+  /* 1. Remove bottom margin from the paragraph before the feature row */
+  .page__content p:last-of-type {
+    margin-bottom: 0 !important;
+  }
+
+  /* 2. Remove top margin from the feature row wrapper */
+  .feature_row {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+</style>
