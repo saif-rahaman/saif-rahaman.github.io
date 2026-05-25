@@ -43,7 +43,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   /* 1. Fully override the theme's feature_row structure */
   .feature_row {
     display: grid !important;
-    grid-template-columns: 2fr 1fr !important; /* Adjust ratios here */
+    grid-template-columns: 1.5fr 1fr !important; /* Adjust ratios here */
     gap: 20px !important; /* Prevents overlap */
     max-width: 100% !important;
   }
