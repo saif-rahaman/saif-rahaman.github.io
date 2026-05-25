@@ -28,7 +28,7 @@ feature_row:
       width: 20% !important; /* Make profile slightly smaller */
     }
     .layout--single .main {
-      width: 80% !important; /* Give content more room */
+      width: 100% !important; /* Give content more room */
       padding-right: 20px !important;
     }
   }
