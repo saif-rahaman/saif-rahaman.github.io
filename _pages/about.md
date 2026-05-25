@@ -44,19 +44,19 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   .feature_row {
     display: flex !important;
     flex-wrap: nowrap !important;
-    gap: 40px !important; /* This is your 'safety gap' */
+    gap: 20px !important; /* This is your 'safety gap' */
     max-width: 100% !important;
   }
 
   /* 2. Assign weights: Education (60%) and Research (40%) */
   .feature__item:first-child {
-    flex: 0 0 60% !important; 
-    max-width: 60% !important;
+    flex: 0 0 70% !important; 
+    max-width: 70% !important;
   }
   
   .feature__item:nth-child(2) {
-    flex: 0 0 40% !important;
-    max-width: 40% !important;
+    flex: 0 0 30% !important;
+    max-width: 30% !important;
   }
 
   /* 3. Prevent text overlap by forcing containment */
