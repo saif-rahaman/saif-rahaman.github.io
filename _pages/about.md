@@ -40,23 +40,30 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 {% include feature_row %}
 
 <style>
-  /* Override the default feature_row grid */
+  /* 1. Fully override the theme's feature_row structure */
   .feature_row {
     display: grid !important;
-    grid-template-columns: 60% 40% !important; /* 60% for Education, 40% for Research */
-    gap: 20px !important;
+    grid-template-columns: 2fr 1fr !important; /* Adjust ratios here */
+    gap: 40px !important; /* Prevents overlap */
     max-width: 100% !important;
   }
 
-  /* Force the Education item to not break text */
-  .feature__item-excerpt span {
-    white-space: nowrap !important;
-  }
-
-  /* Ensure the logos and text stay aligned */
+  /* 2. Reset the individual items so they don't fight the grid */
   .feature__item {
+    display: block !important;
     width: 100% !important;
     padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* 3. Force content to stay within its own grid column */
+  .feature__item-excerpt {
+    width: 100% !important;
+  }
+
+  /* 4. Fix for the Education text wrapping */
+  .feature__item-excerpt span {
+    white-space: nowrap !important;
   }
 </style>
 
