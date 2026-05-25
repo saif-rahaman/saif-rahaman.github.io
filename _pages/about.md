@@ -17,21 +17,23 @@ feature_row:
 ---  
 
 <style>
-  /* Force container and main column to expand to fill available space */
-  .layout--single .page__inner-wrap,
-  .layout--single .main,
-  .layout--single .page__content {
+  /* 1. Force the container to stop obeying the Susy grid calculation */
+  .layout--single .page__inner-wrap {
     max-width: 100% !important;
-    padding-right: 0px !important;
-    margin-right: 0px !important;
-    width: 100% !important;
+    padding-right: 20px !important;
   }
 
-  /* Specifically target the grid column that restricts the width */
+  /* 2. Tell the sidebar to stay, but stop pushing the content */
   @media (min-width: 1024px) {
+    .layout--single .sidebar {
+      flex: 0 0 200px !important; /* Fix sidebar width */
+      max-width: 200px !important;
+    }
+    
     .layout--single .main {
-      width: 100% !important;
-      padding-right: 10px !important; /* Small buffer so text doesn't touch the screen edge */
+      flex: 1 !important; /* Allow main content to fill remaining space */
+      max-width: 100% !important;
+      padding-right: 0 !important;
     }
   }
 </style>
