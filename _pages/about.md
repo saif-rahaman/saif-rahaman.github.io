@@ -32,7 +32,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   /* Force the layout to treat the content area as full width */
   .layout--single .page__inner-wrap {
     max-width: 100% !important;
-    padding-right: 0 !important;
+    padding-right: 0px !important;
   }
 
   /* Override the Susy grid settings that create the whitespace */
@@ -44,7 +44,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     .layout--single .main {
       width: calc(100% - 200px) !important; /* Force content to fill the remaining space */
       padding-left: 30px !important;
-      padding-right: 0 !important;
+      padding-right: 0px !important;
     }
   }
 </style>
