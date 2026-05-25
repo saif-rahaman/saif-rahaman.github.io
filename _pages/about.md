@@ -12,14 +12,15 @@ redirect_from:
 
 feature_row:
   - title: "Education"
+    <br>
     excerpt: >
       <div style="display: flex; flex-direction: column; gap: 25px;">
         <div style="display: flex; align-items: center;">
-          <img src="/images/cmu-logo.png" alt="CMU" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
+          <img src="/images/cmu-logo.png" alt="CMU" style="width: 80px; height: 80px; object-fit: contain; margin-right: 0px;">
           <span><strong>Ph.D. in Chemical Engineering, 2021</strong><br>Carnegie Mellon University</span>
         </div>
         <div style="display: flex; align-items: center;">
-          <img src="/images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 20px;">
+          <img src="/images/iitb-logo.png" alt="IIT" style="width: 80px; height: 80px; object-fit: contain; margin-right: 0px;">
           <span><strong>B.Tech in Chemical Engineering, 2016</strong><br>Indian Institute of Technology, Bombay</span>
         </div>
       </div>
