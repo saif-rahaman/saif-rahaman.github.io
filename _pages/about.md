@@ -50,8 +50,8 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 
   /* 2. Assign weights: Education (60%) and Research (40%) */
   .feature__item:first-child {
-    flex: 0 0 70% !important; 
-    max-width: 70% !important;
+    flex: 0 0 100% !important; 
+    max-width: 100% !important;
   }
   
   .feature__item:nth-child(2) {
