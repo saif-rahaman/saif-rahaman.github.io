@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* =========================================================================
+   OVERRIDE: Force full-width content and remove theme-injected padding
+   ========================================================================== */
+
+.layout--single .page__inner-wrap {
+  max-width: 100% !important;
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+
+.layout--single .main {
+  padding-right: 0 !important;
+  /* If you want to keep the sidebar on the left, force this container to fill the remaining space */
+  width: 100% !important;
+}
+
+/* Ensure the sidebar doesn't push the content on desktop */
+@include breakpoint($large) {
+  .layout--single .sidebar {
+    width: 200px !important; /* Set a fixed width for your sidebar */
+  }
+  
+  .layout--single .main {
+    width: calc(100% - 220px) !important; /* Content fills the rest, minus sidebar + buffer */
+    padding-right: 0 !important;
+  }
+}
