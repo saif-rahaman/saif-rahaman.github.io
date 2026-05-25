@@ -29,22 +29,18 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
 {% include feature_row %}
 
 <style>
-  /* Override the grid-based layout container */
-  .layout--single .page__inner-wrap {
-    max-width: 100% !important;
-  }
-
-  /* Force the content column to full width, ignoring the sidebar reservation */
+  /* 1. Force the main container to span wider */
   @media (min-width: 1024px) {
     .layout--single .main {
-      width: 100% !important;
-      float: none !important;
-      padding-right: 0 !important;
+      /* Force the main column to take 9 out of 12 columns instead of the default 10/12 */
+      width: 75% !important; 
+      /* Reduce the right padding that creates the whitespace */
+      padding-right: 20px !important; 
     }
-
-    /* Force the sidebar to hide itself so the content can take 100% space */
+    
     .layout--single .sidebar {
-      display: none !important;
+      /* Keep the sidebar but ensure it doesn't push the content too far */
+      width: 25% !important;
     }
   }
 </style>
