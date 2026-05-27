@@ -25,12 +25,12 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   <div class="edu-section">
     <h2>Education</h2>
     <div class="item">
-      <img src="/assets/images/cmu-logo.png" alt="CMU">
-      <span><strong>Carnegie Mellon University</strong><br>PhD in Chemical Engineering</span>
+      <img src="/images/cmu-logo.png" alt="CMU">
+      <span><strong>Ph.D. in Chemical Engineering</strong><br>Carnegie Mellon University</span>
     </div>
     <div class="item">
-      <img src="/assets/images/iit-logo.png" alt="IIT">
-      <span><strong>Indian Institute of Technology, Bombay</strong><br>B.Tech in Chemical Engineering</span>
+      <img src="/images/iitb-logo.png" alt="IIT">
+      <span><strong>B.Tech in Chemical Engineering</strong><br>Indian Institute of Technology, Bombay</span>
     </div>
   </div>
 
@@ -49,7 +49,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    margin-top: 0 !important;
+    margin-top: 0px !important;
   }
   .item {
     display: flex;
