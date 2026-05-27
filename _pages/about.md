@@ -37,9 +37,10 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
   <div class="res-section">
     <h2>Research Interests</h2>
     <ul>
-      <li>Optimization & Control</li>
-      <li>Power Systems</li>
-      <li>Numerical Methods</li>
+      <li>Optimization & Control for Energy Systems</li>
+      <li>Artificial Intelligence in Optimization</li>
+      <li>Network Optimization & Algorithms</li>
+      <li>Stochastic Optimization</li>
     </ul>
   </div>
 </div>
