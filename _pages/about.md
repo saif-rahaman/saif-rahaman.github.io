@@ -49,7 +49,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    margin-top: 0px !important;
+    margin-top: -20px !important;
   }
   .item {
     display: flex;
