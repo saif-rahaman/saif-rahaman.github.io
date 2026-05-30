@@ -28,7 +28,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     <h2>Education</h2>
     <div class="item">
       <img src="/images/cmu-logo.png" alt="CMU">
-      <span><strong>Ph.D. in Chemical Engineering</strong><br>Carnegie Mellon University</span>
+      <span><strong>Ph.D. in Chemical Engineering</strong><br>Area:-Nonlinear Optimization<br>Carnegie Mellon University</span>
     </div>
     <div class="item">
       <img src="/images/iitb-logo.png" alt="IIT">
