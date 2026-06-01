@@ -4,7 +4,8 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=s8FMWa4AAAAJ&hl=en
+    target: _blank
 
   - title: "Talks"
     url: /talks/    

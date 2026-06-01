@@ -5,24 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Working**
 
-<ol>
 
- <li><b>S. R. Kazi</b>, M. Thombre and L.T. Biegler. "A Hybrid Algorithm for Global Convergence of Mathematical Programming with Complementarity Constraints (MPCC)"</li>
 
-</ol>
-  
-**Submitted**
-
-<ol>
-
-<li>M. Sodwatana, <b>S. R. Kazi</b>, K. Sundar and A. Zlotnik. "Locational Marginal Pricing of Energy in Pipeline Transport of Natural Gas and
-Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16385" target="_blank">[Preprint]</a></li>
-
-</ol>
-
-**Journal Publications**
+**Journal Articles**
 
 
 <ol>
@@ -43,7 +29,7 @@ Hydrogen with Carbon Offset Incentives" <a href = "https://arxiv.org/pdf/2210.16
 
 </ol>
 
-**Conference Publications**
+**Conference Papers**
 
 <ol>
 
