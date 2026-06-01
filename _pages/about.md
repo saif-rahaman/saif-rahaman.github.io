@@ -11,13 +11,11 @@ redirect_from:
   - /about.html
 ---  
 
-Currently, I am a staff scientist at the <a href = "https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php" target="_blank" style="text-decoration:none"> Applied Math & Plasma Physics </a> group in Los Alamos National Lab (LANL), USA.  I am also a part of the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none"> Advanced Network Science Initiative (ANSI) </a> group. My research interests are at the intersection of Optimization especially Nonlinear Programming and Energy Systems Modeling.   
+Currently, I am a staff scientist at the <a href = "https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php" target="_blank" style="text-decoration:none"> Applied Math & Plasma Physics </a> group in Los Alamos National Lab (LANL), USA.  I am also a part of the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none"> Advanced Network Science Initiative (ANSI) </a> group. My research interests are at the intersection of Optimization and Control, Machine Learning and Energy Systems Modeling. I focus on modeling and developing optimization algorithms for infrastructure systems such as power grid, natural gas networks and communications networks.  
 
-Previously, I did my post-doctoral research at the <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none"> Center for Nonlinear Studies (CNLS)</a> at LANL working with <a href = "https://azlotnik.github.io/" target="_blank" style="text-decoration:none"> Anatoly Zlotnik </a> and <a href = "https://kaarthiksundar.github.io/" target="_blank" style="text-decoration:none"> Kaarthik Sundar</a>..
+Previously, I did my post-doctoral research at the <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none"> Center for Nonlinear Studies (CNLS)</a> at LANL working with <a href = "https://azlotnik.github.io/" target="_blank" style="text-decoration:none"> Anatoly Zlotnik </a> and <a href = "https://kaarthiksundar.github.io/" target="_blank" style="text-decoration:none"> Kaarthik Sundar</a>. I obtained my PhD working with Prof. <a href = "http://numero.cheme.cmu.edu/" target="_blank" style="text-decoration:none"> Lorenz Biegler </a> in Carnegie Mellon University, Pittsburgh in 2021. My PhD project was in developing detailed heat exchanger design models and incorporating them in large flowsheet optimization models using trust-region methods. I also worked on modeling multi-component phase change heat exchangers using MPECs in heat integration optimization models among other things.
 
 <!--I currently work on modeling and optimization of energy network systems including gas pipeline networks with a focus on blending hydrogen and natural gas in existing pipeline infrastructure. I am also interested in algorithms and applications for <b> mathematical programing with equilibrium constraints (MPECs) </b> which are used to solve optimization problems with variational inequalities.-->
-
-I obtained my PhD working with Prof. <a href = "http://numero.cheme.cmu.edu/" target="_blank" style="text-decoration:none"> Lorenz Biegler </a> in Chemical Engineering from Carnegie Mellon University, Pittsburgh in 2021. My PhD project was in developing detailed heat exchanger design models and incorporating them in large flowsheet optimization models using trust-region methods. I also worked on modeling multi-component phase change heat exchangers using MPECs in heat integration optimization models among other things.
 
 Prior to that, I completed my Bachelors (with Honors) in Chemical Engineering (minor in Electrical Engineering) from Indian Institute of Technology Bombay in India 2016.
 
@@ -30,7 +28,7 @@ Please feel free to contact me via <a href = "mailto:srkazi@alumni.cmu.edu" targ
     <h2>Education</h2>
     <div class="item">
       <img src="/images/cmu-logo.png" alt="CMU">
-      <span><strong>Ph.D. in Chemical Engineering</strong><br>Area: Process Systems Engineering<br>Carnegie Mellon University</span>
+      <span><strong>Ph.D. in Chemical Engineering</strong><br>Specialization: Process Systems Engineering<br>Carnegie Mellon University</span>
     </div>
     <div class="item">
       <img src="/images/iitb-logo.png" alt="IIT">
